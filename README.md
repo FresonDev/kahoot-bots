@@ -1,4 +1,4 @@
-**Kahoot Bot Spammer 🚀🤖**
+# **Kahoot Bot Spammer 🚀🤖**
 
 Welcome to the **Kahoot Bot Spammer**! This script allows you to automate the process of joining Kahoot challenges using multiple bots. Simply provide a challenge ID, set the number of bots, and specify a custom prefix for their nicknames. The script will generate random nicknames and join the challenge with them! 😎🎮
 
